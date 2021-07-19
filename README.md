@@ -4,5 +4,6 @@ I love to code especially to try new technologies. I also love to challenge myse
 
 Contents:
 - [001 - Reading CSV File](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/001-Read_CSV_File/001-Read_CSV_File.ipynb)
+- [002 - Report Repair](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/002-Report_Repair/002-Day01_Report_Repair.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
