@@ -7,5 +7,6 @@ Contents:
 - [002 - Report Repair](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/002-Report_Repair/002-Day01_Report_Repair.ipynb)
 - [003 - Report Repair Part 2](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/003-Report_Repair_Part_2/003-Day02_Report_Repair_Part_2.ipynb)
 - [004 - Password Philosophy Part 1](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/004-Password_Philosophy_Part_1/004-Day03_Password_Philosophy_Part_1.ipynb)
+- [005 - Password Philosophy Part 2](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/005-Password_Philosophy_Part_2/005-Day02_Password_Philosophy_Part_2.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
