@@ -10,5 +10,6 @@ Contents:
 - [005 - Password Philosophy Part 2](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/005-Password_Philosophy_Part_2/005-Day02_Password_Philosophy_Part_2.ipynb)
 - [006 - House Robber](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/006-House_Robber/006-House_Robber.ipynb)
 - [007 - Tobbogan Trajectory](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/007-Toboggan_Trajectory/007-Day03_Toboggan_Trajectory.ipynb)
+- [008 - Longes Word](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/008-Longest_Word/008-Longest_Word.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
