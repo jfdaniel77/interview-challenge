@@ -14,5 +14,6 @@ Contents:
 - [009 - Maximum Subarray](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/009-Maximum_Subarray/009-Maximum_Subarray.ipynb)
 - [010 - Move Zeroes](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/010-Move_Zeroes/010-Move_Zeroes.ipynb)
 - [011 - Contains Duplicate](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/011-Contains_Duplicate/011-Contains_Duplicate.ipynb)
+- [012 - Passport Processing](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/012-Passport_Processing/012-Day4_Passport_Processing.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
