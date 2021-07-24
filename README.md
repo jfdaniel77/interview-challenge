@@ -13,5 +13,6 @@ Contents:
 - [008 - Longes Word](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/008-Longest_Word/008-Longest_Word.ipynb)
 - [009 - Maximum Subarray](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/009-Maximum_Subarray/009-Maximum_Subarray.ipynb)
 - [010 - Move Zeroes](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/010-Move_Zeroes/010-Move_Zeroes.ipynb)
+- [011 - Contains Duplicate](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/011-Contains_Duplicate/011-Contains_Duplicate.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
