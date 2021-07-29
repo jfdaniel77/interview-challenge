@@ -17,5 +17,6 @@ Contents:
 - [012 - Passport Processing](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/012-Passport_Processing/012-Day4_Passport_Processing.ipynb)
 - [013 - Reverse Integer](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/013-Reverse_Integer/013-Reverse_Integer.ipynb)
 - [014 - Implement Queue using Stacks](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/014-Implement_Queue_using_Stacks/014-Implement_Queue_using_Stacks.ipynb)
+- [015 - Binary Boarding](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/015-Binary_Boarding/015-Day05_Binary_Boarding.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
