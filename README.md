@@ -18,5 +18,6 @@ Contents:
 - [013 - Reverse Integer](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/013-Reverse_Integer/013-Reverse_Integer.ipynb)
 - [014 - Implement Queue using Stacks](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/014-Implement_Queue_using_Stacks/014-Implement_Queue_using_Stacks.ipynb)
 - [015 - Binary Boarding](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/015-Binary_Boarding/015-Day05_Binary_Boarding.ipynb)
+- [016 - Custom Customs](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/016-Custom_Customs/016-Custom_Customs.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
