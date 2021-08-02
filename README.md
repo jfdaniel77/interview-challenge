@@ -20,5 +20,6 @@ Contents:
 - [015 - Binary Boarding](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/015-Binary_Boarding/015-Day05_Binary_Boarding.ipynb)
 - [016 - Custom Customs](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/016-Custom_Customs/016-Custom_Customs.ipynb)
 - [017 - Fibonacci Number](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/017-Fibonacci_Number/017-Fibonacci_Number.ipynb)
+- [018 - Handy Havesacks](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/018-Handy_Haversacks/018-Day07_Handy_Haversacks.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
