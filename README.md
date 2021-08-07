@@ -21,5 +21,6 @@ Contents:
 - [016 - Custom Customs](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/016-Custom_Customs/016-Custom_Customs.ipynb)
 - [017 - Fibonacci Number](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/017-Fibonacci_Number/017-Fibonacci_Number.ipynb)
 - [018 - Handy Havesacks](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/018-Handy_Haversacks/018-Day07_Handy_Haversacks.ipynb)
+- [019 - Handheld Halting](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/019-Handheld_Halting/019-Day08_Handheld_Halting.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
