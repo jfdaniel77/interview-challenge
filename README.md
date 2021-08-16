@@ -1,5 +1,7 @@
 # Interview Challenge
 
+![GitHub last commit](https://img.shields.io/github/last-commit/jfdaniel77/interview-challenge)
+
 I love to code especially to try new technologies. I also love to challenge myself to solve complex issues/problems throuhg coding. This repository is my collection of solutions for technical/coding tasks during interview and programming contest/competition.
 
 Contents:
