@@ -23,5 +23,6 @@ Contents:
 - [018 - Handy Havesacks](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/018-Handy_Haversacks/018-Day07_Handy_Haversacks.ipynb)
 - [019 - Handheld Halting](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/019-Handheld_Halting/019-Day08_Handheld_Halting.ipynb)
 - [020 - Encoding Error](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/020-Encoding_Error/020-Day09_Encoding_Error.ipynb)
+- [021 - Adapter Array](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/021-Adapter_Array/021-Day10_Adapter_Array.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
