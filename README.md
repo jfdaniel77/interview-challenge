@@ -2,7 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/jfdaniel77/interview-challenge)
 
-I love to code especially to try new technologies. I also love to challenge myself to solve complex issues/problems throuhg coding. This repository is my collection of solutions for technical/coding tasks during interview and programming contest/competition.
+I love to code especially to try new technologies. I also love to challenge myself to solve complex issues/problems through coding. This repository is my collection of solutions for technical/coding tasks during interview and programming contest/competition.
 
 Contents:
 - [001 - Reading CSV File](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/001-Read_CSV_File/001-Read_CSV_File.ipynb)
