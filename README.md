@@ -26,5 +26,6 @@ Contents:
 - [019 - Handheld Halting](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/019-Handheld_Halting/019-Day08_Handheld_Halting.ipynb)
 - [020 - Encoding Error](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/020-Encoding_Error/020-Day09_Encoding_Error.ipynb)
 - [021 - Adapter Array](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/021-Adapter_Array/021-Day10_Adapter_Array.ipynb)
+- [022 - Seating System](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/022-Seating_System/022-Day11_Seating_System.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
