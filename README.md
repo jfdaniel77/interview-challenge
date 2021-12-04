@@ -28,5 +28,6 @@ Contents:
 - [021 - Adapter Array](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/021-Adapter_Array/021-Day10_Adapter_Array.ipynb)
 - [022 - Seating System](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/022-Seating_System/022-Day11_Seating_System.ipynb)
 - [023 - Sonar Sweep](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/023-Sonar_Sweep/023-Day01_Sonar_Sweep.ipynb)
+- [024 - Dive!](https://github.com/jfdaniel77/interview-challenge/blob/main/challenges/024-Dive/024-Day02_Dive.ipynb)
 
 > Please feel free to try or use any solutions here. I welcome any comments and feedback from all of you 😃
